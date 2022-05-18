@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349577398531",
+    "project_id": "login-f85c0",
+    "storage_bucket": "login-f85c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349577398531:android:7c602f827b42e1a2a28136",
+        "android_client_info": {
+          "package_name": "com.example.acara1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349577398531-5j9duh43dfb65rg7ch81s9uar55ol9gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVaIxwbmME-1RSsNu8DQ-36Lo-w9cxaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349577398531-5j9duh43dfb65rg7ch81s9uar55ol9gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
